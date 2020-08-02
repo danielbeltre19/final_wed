@@ -1,0 +1,10 @@
+{
+
+    "Host": "smtp.gmail.com",
+    "Username": "20186962@itla.edu.do",
+    "Password": "20186962",
+    "Port": 587,
+    "From": "Sistema de Registro"
+
+
+}
